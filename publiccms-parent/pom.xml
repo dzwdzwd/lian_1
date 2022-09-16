@@ -30,7 +30,7 @@
 		<version.hibernate>5.1.7.Final</version.hibernate>
 		<!-- http://mvnrepository.com/artifact/org.hibernate/hibernate-search -->
 		<!-- http://hibernate.org/search/downloads/ -->
-		<version.hibernateSearch>5.6.2.Final</version.hibernateSearch>
+		<version.hibernateSearch>5.11.10.Final</version.hibernateSearch>
 		<!-- http://mvnrepository.com/artifact/org.freemarker/freemarker -->
 		<version.freemarker>2.3.26-incubating</version.freemarker>
 		<!-- http://mvnrepository.com/artifact/org.mybatis/mybatis -->
