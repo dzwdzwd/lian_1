@@ -242,7 +242,7 @@
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-starter-web</artifactId>
-				<version>1.5.4.RELEASE</version>
+				<version>1.5.8.RELEASE</version>
 				<exclusions>
 					<exclusion>
 						<groupId>org.springframework.boot</groupId>
