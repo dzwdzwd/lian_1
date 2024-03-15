@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<!-- http://mvnrepository.com/artifact/org.springframework/spring-core -->
 		<!-- http://projects.spring.io/spring-framework/ -->
-		<version.spring>4.3.9.RELEASE</version.spring>
+		<version.spring>5.3.33</version.spring>
 		<!-- http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
 		<!-- http://hc.apache.org/downloads.cgi -->
 		<version.httpclient>4.5.3</version.httpclient>
